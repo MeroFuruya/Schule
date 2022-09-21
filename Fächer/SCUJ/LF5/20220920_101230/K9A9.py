@@ -67,7 +67,12 @@ for i in range(5):
     if guess == secret_number:
         print("Correct!")
         break
-    g.afterGuess(guess > secret_number)
+    elif guess > secret_number:
+        g.afterGuess(True)
+        print(f"Guessed {guess}; Too high")
+    else:
+        print(f"Guessed {guess}; Too low")
+        g.afterGuess(False)
 
 print("Number of guesses: ", g.guessCount)
 
