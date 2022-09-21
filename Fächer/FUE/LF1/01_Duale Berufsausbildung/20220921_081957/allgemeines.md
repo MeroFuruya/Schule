@@ -1,0 +1,51 @@
+# Duale Berufsausbildung
+
+## IT-Berufe
+- seit wann?: 1969
+- Neuordnung: 2020
+- Unterscheidungen:
+  - IT-Systemelektroniker
+  - Kaufleute für IT-Systemmanagement
+  - Kaufleute für IT-Digitalisierungsmanagement
+  - Fachinformatiker in vier Fachrichtungen
+- Prüfungen: Gestreckte prüfungen in drei Teilen
+  - *TEIL1:* schriftl. nach etw. 15 Monaten bez. auf die Lernfelder 1 - 5 (trägt mit 20% zur Abschlussnote bei)
+  - Projekt im Betrieb (Planung, Umsetzung dokumentieren)
+  - *TEIL2:* schriftl. ca. 3 Monate vor Ende der Ausbildung bez. auf alle Lernfelder - besonders ab dem 2. Jahr (trägt mit ca. 30% zur Abschlussnote bei)
+  - *TEIL3:* mündl. mit Projektarbeit am Ende der Ausbildung (trägt mit 50% zur Abschlussnote bei)
+    - Projektpräsentation
+      - max. 15 min 
+      - sollte mind. 13 min dauern
+    - Prüfungsgespräch geht um das Projekt
+- Ausbildungsdauer: idr. 3 Jahre
+  - kann gekürzt werden, wenn die Noten gut sind & Betrieb zustimmt
+- *Abb.* Ähnlichkeit des Unterrichts der verschiedenen Berufen über die 3 Jahre
+- Duales System:
+  - dual?
+    - Der Betrieb
+      - Betriebliche Handelssituationen
+        - Kenntnisse
+        - Fertigkeiten
+        - Fähigkeiten
+      - Inhaltliche Regelungen
+        - Ausbildungsordnungen
+    - Die Berufsschule
+      - Fachtheoretische Grundlagen
+      - Lern- und Arbeitstechniken in betriebl. Situationen
+      - Berifsbezogene Allgemeinbildung in den Fächern:
+        - Deutsch (gibt es bei uns aufgrund Lehrermangel derzeit nicht)
+        - Englisch
+        - Politik
+        - Sport (gibt es bei uns aufgrund Platzmangel derzeit nicht)
+        - Relgion/Ethik
+  - Vor- und Nachteile:
+    - Vorteile:
+      - Praxisnahe Berufsausbildung
+      - qualifizierte Arbeitskräfte
+      - Einaltung eines Mindesniveaus durch Ausbildungsverordnung und Rahmenlehrpläne
+      - Ausbildungsbetriebe sind verpflichtet, nicht nur nach ihrem speziellen betrieblichen Bedarf auszubilden, sondern auch die Auszubildenden auf die allgemeinen Anforderungen des Berufes vorzubereiten 
+    - Nachteile:
+      - ... (zeit zum abschreiben reicht nd mehr)
+- Der Ausbildungsvertrag im überblick
+  - ... (zeit zum abschreiben reicht nd mehr)
+- ... (zeit zum abschreiben reicht nd mehr)
