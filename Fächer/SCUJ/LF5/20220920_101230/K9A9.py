@@ -4,7 +4,7 @@ import random
 class Guesser:
     def __init__(self):
         self.lastGuess = -1
-        self.lastGuessTooHigh = False
+        self.lastGuessTooHigh: bool = False
         self.guessCount = 0
         self.alreadyGuessed = {}
 
@@ -12,22 +12,24 @@ class Guesser:
         self.guessCount += 1
         return guess
     
-    def afterGuess(self, tooHigh):
+    def afterGuess(self, tooHigh: bool):
         self.lastGuessTooHigh = tooHigh
         self.alreadyGuessed[self.lastGuess] = tooHigh
 
     def rangeAlreadyGuessed(self, low, high):
         for i in range(low, high):
-            if i in self.alreadyGuessed:
+            if i in self.alreadyGuessed.keys():
                 return True
         return False
     
     def nearestNumberAlreadyGuessed(self, n):
         nearestNumber = -1
-        for i in self.alreadyGuessed:
+        for i in self.alreadyGuessed.keys():
             if i < n and i > nearestNumber:
                 nearestNumber = i
         return nearestNumber
+
+    
 
     def Guess(self):
         # first guess
@@ -59,11 +61,11 @@ secret_number = random.randint(0, 100)
 print("Cracking Number")
 print("===============")
 
+print(f"Secret Number: {secret_number}")
 g = Guesser()
 
 for i in range(5):
     guess = g.Guess()
-    print("Guessing: ", guess)
     if guess == secret_number:
         print("Correct!")
         break
@@ -73,6 +75,3 @@ for i in range(5):
     else:
         print(f"Guessed {guess}; Too low")
         g.afterGuess(False)
-
-print("Number of guesses: ", g.guessCount)
-
