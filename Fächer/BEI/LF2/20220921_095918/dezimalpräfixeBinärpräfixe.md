@@ -3,8 +3,12 @@
   Prozentualen unterschied zwischen den Binärprefixen `Kibi`, `Mebi`, `Gibi`, `Tebi` und `Pebi` sowie den dazugehörigen Dezimalpräfixen berechnen.
 ### Lösung
   1 Kilo -> 1 Kibi
-  $$ 1.000 / 1.024 = 97.7\% $$
-  $$ 100\% - 97.7\% = 2.3\% $$
+  $$
+  1.000 / 1.024 = 97.7\%
+  $$
+  $$ 
+  100\% - 97.7\% = 2.3\%
+  $$
 
   1 Mega -> 1 Mebi
   $$ 1.000.000 / 1.048.576 ~ 95.4\% $$
