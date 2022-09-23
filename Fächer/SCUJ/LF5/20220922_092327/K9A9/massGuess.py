@@ -6,8 +6,8 @@ print("Mass Guessing")
 results = {}
 neededTryes = []
 
-max_num = 9999
-min_num = 0
+max_num = 100
+min_num = 1
 
 for i in range(min_num, max_num):
 #     print(i)
