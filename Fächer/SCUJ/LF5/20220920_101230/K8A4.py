@@ -1,27 +1,12 @@
 print('HANDYKAUF')
 # preis < 1000
-preis = ''
-while type(preis) is not float:
-    try:
-        preis = float(input('Preis: '))
-    except ValueError:
-        print('Bitte eine Zahl eingeben!')
+preis = float(input('Preis: '))
 
 # rückkammeras >= 3
-rückkamera = ''
-while type(rückkamera) is not int:
-    try:
-        rückkamera = int(input('Rückkamera: '))
-    except ValueError:
-        print('Bitte eine Zahl eingeben!')
+rückkamera = int(input('Anz. Rückkameras: '))
 
 # tage_ohne_laden >= 2
-tage_ohne_laden = ''
-while type(tage_ohne_laden) is not int:
-    try:
-        tage_ohne_laden = int(input('Tage ohne laden: '))
-    except ValueError:
-        print('Bitte eine Zahl eingeben!')
+tage_ohne_laden = int(input('Tage ohne laden: '))
 
 # marke.lower() in ['apple', 'samsung']
 marke = input('Marke: ').lower()
