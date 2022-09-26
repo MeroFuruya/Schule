@@ -1,0 +1,36 @@
+# Speichermedien
+
+- Schreib-/Lesegeschwindigkeit
+  - MB/s
+- Kapazität
+  - GB
+  - TB
+- Typ
+  - SSD
+  - HDD
+  - Flash (USB-Stick)
+  - RAM (Arbeitsspeicher)
+  - ROM (Read Only Memory)
+  - Optisch (CD, DVD, BluRay)
+- Schnittstellen
+  - SATA
+  - USB
+  - FireWire
+  - Thunderbolt
+  - eSATA
+  - M.2
+  - PCIe
+  - NVMe
+- Energieverbrauch
+  - W
+- Lautstärke
+  - dB
+- MTBF (Mean Time Between Failures - wie oft geht es durchschnittlich kaputt)
+  - h
+- Sektorgröße
+  - B
+  - KB
+- Formfaktor
+  - 2,5"
+  - 3,5"
+  - 5,25"
