@@ -7,8 +7,34 @@ Jeder kennt das Dilemma: Man hätte gerne ein neues Buch, ein neues T-Shirt oder
 | | Steven | Sarah |
 | :-- | :-- | :-- |
 | Aussage: | Wir müssen so wenig wie möglich zahlen. Wir brauchen einen leichten Laptop mit 4 GB | Wir haben 550€ Budget für den neuen Laptop zur Verfügung. Dafür kaufen wir den besten Laptop.|
-| Mittel (Geld): | - | - |
-| Ziel: | - | - |
-| Kaufempfehlung: | - | - |
+| Mittel (Geld): | ? | 550€ |
+| Ziel: | Wenig Zahlen, gewisse Anforderungen | best möglicher Laptop |
+| Kaufempfehlung: | 2) | 1) |
+| Grund: | Günstigste Möglichkeit, 4GB RAM, *nur* Mittelleicht | kostet weniger als 550€, ist *maximal gut* |
+| Prinzip: | möglichst viele Anforderungen Befriedigen | möglichst viel mit gegebenen Mitteln |
+| Mittel: | minimal | gegeben |
+| Ziel: | gegeben | maximal |
+| | ➔ Mit Minimalen Mitteln wird ein gegebenes Ziel erreicht. | ➔ Mit gegebenen Mitteln wird ein maximaler Erfolg erreicht. |
+<br>
 
+## LAPTOPLISTE
+| 1) | 2) | 3) |
+| :-- | :-- | :-- |
+| Medion Akoya E14301 | Acer Aspire 3 | HP Omen 15-en0171ng |
+| 8 GB RAM | 4 GB RAM | 16 GB RAM |
+| 256 GB M.2 SSD | 128 GB M.2 SSD | 1 TB M.2 SSD |
+| 14" Mattes Display | 15,6" Mattes Display | 15,6" IPS Display |
+| 1.54 kg | 1.9 kg | 2.37 kg |
+| **486,42€** | **348,07€** | **1.431,97€** |
+<br>
 
+## M4 Fallbeispiel
+
+| *nr* | | Prinzip | Begründung |
+| --: | :-- | :-- | :-- |
+| 1) | Steven ist mit seinen drei Freunden unterwegs. Alle vier haben Lust auf Pizza und wollen dafür möglichst wenig Geld ausgeben. | - | - |
+| 2) | Sarah hat von ihrem Vater, der großen Hunger hat, 15 Euro bekommen und soll möglichst viele Pizzen für das Geld kaufen. | - | - |
+| 3) | Die Benzinpreise sind wieder gestiegen. Sarah kann durch eine defensive Fahrweise den Benzinverbrauch um 1,5l/100 km senken. | - | - |
+| 4) | Für die Entwicklung einer Website sollen möglichst wenige Arbeitsstunden anfallen. | - | - |
+| 5) | Durch den Verbesserungsvorschlag von Steven können in einem Sprint zwei Stories bgearbeitet werden. | - | - |
+| 6) | Sarah möchte mit möglichst wenig Lernaufwand die Abschlussprüfung bestehen. | - | - |
