@@ -1,13 +1,14 @@
 # Speichermedien
-
 - Schreib-/Lesegeschwindigkeit
   - MB/s
+- Zugriffszeit *(Latenz)*
+  - ms
 - Kapazität
   - GB
   - TB
 - Typ
-  - SSD
-  - HDD
+  - SSD (Elektronisch)
+  - HDD (Mechanisch, Magnetisch)
   - Flash (USB-Stick)
   - RAM (Arbeitsspeicher)
   - ROM (Read Only Memory)
