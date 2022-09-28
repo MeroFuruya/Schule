@@ -5,7 +5,7 @@
 mac. brand spaces is a german company founded in 1973 in Bad Kreuznach and later moved to Langenlonsheim. It has national offices in Frankfurt, Munich and Stuttgart and international branches in Vienna, Autria and Shanghai, China. It's CEOs are Stefan Trieb & Jörg Bürkle.
 
 ### Company Structure
-The companys biggest apartments are:
+The companys biggest departments are:
 - Carpentry
 - Paintery
 - Designers
