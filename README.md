@@ -9,19 +9,19 @@
 <br>
 
 **Timetable**
-|    Time   |Mondays|Tuesdays|Wednesdays|Thursdays|Fridays|
-|    :--    |  :--  |   :--  |    :--   |   :--   |  :--  |
-|08:00-08:45|Bei-LF2|RUF-SoWi| FUE-LF1  |         |       |
-|08:45-09:30|Bei-LF2|RUF-SoWi| FUE-LF1  |         |       |
-|           |       |        |          |         |       |
-|09:45-10:30| SCUJ  |  SCUJ  | Bei-LF2  |         |       |
-|10:30-11:15| SCUJ  |  SCUJ  | Bei-LF2  |         |       |
-|           |       |        |          |         |       |
-|11:30-12:15| SCUJ  |  SCUJ  |  FUE-E   |         |       |
-|12:15-13:00| SCUJ  |  SCUJ  |  FUE-E   |         |       |
-|           |       |        |          |         |       |
-|13:30-14:15| SCUJ  |  SCUJ  |  SCAA-R  |         |       |
-|14:15-15:00| SCUJ  |  SCUJ  |  SCAA-R  |         |       |
+|    Time   |Mondays|Tuesdays|Wednesdays|Thursdays| Fridays|
+|    :--    |  :--  |   :--  |    :--   |   :--   |   :--  |
+|08:00-08:45|Bei-LF2|RUF-SoWi| FUE-LF1  |         |        |
+|08:45-09:30|Bei-LF2|RUF-SoWi| FUE-LF1  |         |RUF-SoWi|
+|           |       |        |          |         |        |
+|09:45-10:30| SCUJ  |  SCUJ  | Bei-LF2  |         |FUE-LF1 |
+|10:30-11:15| SCUJ  |  SCUJ  | Bei-LF2  |HEC-ITsec|FUE-LF1 |
+|           |       |        |          |         |        |
+|11:30-12:15| SCUJ  |  SCUJ  |  FUE-E   |HEC-ITsec| BEI-WP |
+|12:15-13:00| SCUJ  |  SCUJ  |  FUE-E   |HEC-ITsec| BEI-WP |
+|           |       |        |          |         |        |
+|13:30-14:15| SCUJ  |  SCUJ  |  SCAA-R  |  SCUJ   |        |
+|14:15-15:00| SCUJ  |  SCUJ  |  SCAA-R  |  SCUJ   |        |
 
 
 |Links||
