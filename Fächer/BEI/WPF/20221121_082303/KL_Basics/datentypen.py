@@ -27,3 +27,39 @@ nameArray[1] = "Karl"
 print(nameArray)
 
 # Es gibt viele weitere Listenfunktionen/-methoden, die uns bei der arbeit mit Listen helfen
+
+
+def unpack(arr: list) -> list:
+    result = []
+    for elem in arr:
+        if isinstance(elem, list):
+            result.extend(unpack(elem))
+        else:
+            result.append(elem)
+    return result
+
+print(unpack(["a", ["b", "c"], "d", ["e", ["f", ["g"], "h"], "i", "j"], "k", "l"]))
+
+schueler = ["max"]
+
+# some other code
+print(schueler)
+for schueler in ["lamo"]:
+    print(schueler)
+
+print(schueler)
+
+def test():
+    print("hello")
+    print(test.hello)
+    test.a = "ur mom"
+
+test.hello = "world"
+
+test.laugth = "haha"
+
+print(test.laugth)
+
+test()
+
+print(test.a)

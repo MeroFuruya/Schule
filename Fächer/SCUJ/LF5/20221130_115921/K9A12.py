@@ -177,6 +177,9 @@ while not check_if_done(chars):
     for char in chars:
         if char.lebenspunkte > 0:
             char.next_round()
+            # print life point table
+            print("| "+(" |\n| ".join([f"{char.name:10} | {char.lebenspunkte :3} | {}" for char in chars])+ " |"))
+            
             print(f"{char.name} hat {char.lebenspunkte} Lebenspunkte und ist am Zug")
                     
             print("Attacks:")
