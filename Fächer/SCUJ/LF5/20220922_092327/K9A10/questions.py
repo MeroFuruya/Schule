@@ -1,11 +1,12 @@
 import json
 import random
+import pathlib
 
 class Questions:
     def __init__(self) -> None:
         random.seed()
         self.last_question: int = -1
-        with open("questions.json", "r") as f:
+        with open(str(pathlib.Path().resolve())+"/questions.json", "r") as f:
             self.questions: dict = json.load(f)
         
     def get_random_question(self):
