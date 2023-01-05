@@ -4,19 +4,19 @@
 
 _Angefragte Menge:_ `3`
 
-| Firmenname                      | Kaller GmbH |     |     |     |
-| ------------------------------- |:-----------:|:---:|:---:|:---:|
-| Position                        | %           | €   | %   | €   |
-| Vollgummirad (LEP) stückpreis   |             |     |     |     |
-| Vollgummirad (LEP) gesamt       |             |     |     |     |
-| `-` Lieferrabatt                |             |     |     |     |
-| **`=` Zieleinkaufspreis (ZEP)** |             |     |     |     |
-| `-` Lieferskonto                |             |     |     |     |
-| **`=` Bareinkaufspreis (BEP)**  |             |     |     |     |
-| `+` Bezugskosten                |             |     |     |     |
-| **`=` Bezugspreis (BP)**        |             |     |     |     |
-|                                 |             |     |     |     |
-|                                 |             |     |     |     |
+| Firmenname                           | Kaller GmbH |        |     |     |
+| ------------------------------------ |:-----------:|:------:|:---:|:---:|
+| Position                             | %           | €      | %   | €   |
+| Vollgummirad (LEP) stückpreis        |             | 42.99  |     |     |
+| Vollgummirad (LEP) gesamt - 800 stk. |             | 34,392 |     |     |
+| `-` Lieferrabatt                     |             |        |     |     |
+| **`=` Zieleinkaufspreis (ZEP)**      |             |        |     |     |
+| `-` Lieferskonto                     |             |        |     |     |
+| **`=` Bareinkaufspreis (BEP)**       |             |        |     |     |
+| `+` Bezugskosten                     |             |        |     |     |
+| **`=` Bezugspreis (BP)**             |             |        |     |     |
+|                                      |             |        |     |     |
+|                                      |             |        |     |     |
 
 ## Nutzwertanalyse: Liferantenbewertung
 
