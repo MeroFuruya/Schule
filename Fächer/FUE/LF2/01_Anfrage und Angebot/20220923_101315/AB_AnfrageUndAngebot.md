@@ -73,3 +73,25 @@
 - Zahlungsbedingungen
   - Wichtigste Zahlungsbedingungen
     - Zahlungsfrist
+      - Skontofrist
+    - Zahlungsweise
+      - Barzahlung / Nichtbarzahlung
+      - Zahlungsabwicklung
+        - Zahlung vor der Lieferung
+        - Zahlung bei Lieferung
+        - Zahlung nach der Lieferung
+        - Ratenzahlung
+  - Forderung gilt erst als beglichen, wenn der Betrag auf dem Konto des Verkäufers eingegangen ist
+- Eigentumsvorbehalt
+- Erfüllungsort und Gerichtsstand
+  - Erfüllungsort ist der Ort, an dem die Ware geliefert wird
+  - Gerichtsstand ist der Ort, an dem der Vertrag geschlossen wird
+- AGB
+- Abschlussklausel
+  - Sollte eine Hoffnung auf Bestellung Ausdrücken
+
+## A4
+**Bedeutung der AGB:**
+Die AGB bilden die Grundlage eines Angebots. 
+
+

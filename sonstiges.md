@@ -11,5 +11,7 @@ Westermann Schulbuchverlag GmbH & Co. KG
 Cornelsen Verlag GmbH
 
 ## Schulbuch Wirtschaftskunde
-**Name:** <br>
-**ISBN:** <br>
+**Name:** Wirtschaftskunde _Ausgabe 2022_<br>
+**ISBN:** 978-3-12-882741-4<br>
+[Link](https://www.klett.de/produkt/isbn/978-3-12-882741-4)<br>
+Klett Verlag GmbH
