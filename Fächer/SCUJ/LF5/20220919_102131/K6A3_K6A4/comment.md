@@ -1,5 +1,6 @@
 # weitere variablen / Faktoren
-** die zur genauigkeit der Funktion beitragen**
+**die zur genauigkeit der Funktion beitragen**
+- Zustand des Fahrzeugs
 - Luftwiederstand
 - Effitienz des Fahrstils
   - Geschwindigkeit (Durchschnittsgeschwindigkeit)

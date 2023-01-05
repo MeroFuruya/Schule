@@ -11,14 +11,14 @@
 
 ## Dezimal Präfixe
 
-| DezimalPräfix | Abk. |                      Wert |        Name |  10^x |
+| DezimalPräfix | Abk. |                      Wert |        Name |  $10^x$ |
 | :-----------: | :--: | ------------------------: | :---------: | ----: |
-| kilo          | k    |                     1.000 |    Thousand |  10^3 |
-| mega          | M    |                 1.000.000 |     Million |  10^6 |
-| giga          | G    |             1.000.000.000 |     Billion |  10^9 |
-| tera          | T    |         1.000.000.000.000 |    Trillion | 10^12 |
-| peta          | P    |     1.000.000.000.000.000 | Quadrillion | 10^15 |
-| exa           | E    | 1.000.000.000.000.000.000 | Quintillion | 10^18 |
+| kilo          | k    |                     1.000 |    Thousand |  $10^3$ |
+| mega          | M    |                 1.000.000 |     Million |  $10^6$ |
+| giga          | G    |             1.000.000.000 |     Billion |  $10^9$ |
+| tera          | T    |         1.000.000.000.000 |    Trillion | $10^12$ |
+| peta          | P    |     1.000.000.000.000.000 | Quadrillion | $10^15$ |
+| exa           | E    | 1.000.000.000.000.000.000 | Quintillion | $10^18$ |
 
 **_Anwendung:_**
 - HDDs
