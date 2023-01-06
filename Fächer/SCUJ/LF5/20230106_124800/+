@@ -1,0 +1,43 @@
+# quicksort
+
+l = list(range(10))
+import random
+random.shuffle(l)
+
+l = [5, 3, 6, 2, 9, 0, 1, 4, 8, 7]
+
+def qsort(l: list) -> list:
+    def _qsort(start: int, end: int):
+        # if end - start <= 2: return
+        pivot: int = ((end - start) // 2) + start
+        for i in range(start, end):
+            if i < pivot:
+                # wenn man links vom pivot element ist
+                if l[i] > l[pivot]:
+                    # und der wert größer als das pivot el ist
+                    # kommt es nach rechts
+                    l.insert(pivot, l.pop(i))
+                    # dadurch verschiebt sich das ursprüngliche pivot element nach links
+                    pivot -= 1
+            else:
+                # wenn man rechts vom pivot el ist
+                if l[i] < l[pivot]:
+                    # und der wert kleiner als das pivot el ist
+                    # kommt es nach links
+                    l.insert(pivot-1, l.pop(i))
+                    # dadurch verschiebt sich das pivot element nach rechts
+                    pivot += 1
+        if pivot - start > 1:
+            _qsort(start, pivot)
+            print("first ", start, pivot, l)
+        if end - pivot > 1:
+            _qsort(pivot, end)
+            print("second", pivot, end, l)
+    # call sort func the first time :)
+    _qsort(0, len(l))
+                
+
+print(l)
+qsort(l)
+print(l)
+    
